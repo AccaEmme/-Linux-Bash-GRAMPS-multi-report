@@ -6,6 +6,7 @@
 # To implement:
 #  - get and set dbname from standard input
 #  - allow to choose which report elaborate to
+#  - iterate until "maxfamilies" value, keeping zeros in the correct pattern-syntax
 
 
 mkdir ~/GenTree ~/GenTree/Schema-family_group ~/GenTree/Graph-FamilyTree
